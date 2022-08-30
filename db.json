@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "task": "Task 1",
+      "id": 1
+    },
+    {
+      "task": "Task 2",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "task": "Task 3"
+    },
+    {
+      "task": "Task 4",
+      "id": 4
+    },
+    {
+      "task": "Task 5",
+      "id": 5
+    },
+    {
+      "id": 8,
+      "task": "Task 6"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
