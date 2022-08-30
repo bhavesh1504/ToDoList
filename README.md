@@ -1,5 +1,7 @@
 # ToDoList
 
+A simple To-Do application which Get, Adds, Edit, Delete task. It saves in json Server.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
